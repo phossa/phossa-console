@@ -1,2 +1,14 @@
-# phossa-console
-Console package of the Phossa project
+# Introduction
+Phossa is a lightweight PHP framework. Phossa-console is console package.
+
+# Features
+
+- Support PHP 5.4+
+
+- PHP7 ready for return type declarations and argument type declarations.
+
+# Version
+1.0.0
+
+# Dependencies
+PHP >= 5.4.0 and Phossa-shared 1.*
